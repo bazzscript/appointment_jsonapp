@@ -1,0 +1,38 @@
+[
+    {
+      "day": "2021-07-24",
+      "time": "09:00 -> 11:00",
+      "type": "relax",
+      "title": "Yoga class"
+    },
+    {
+      "day": "2021-06-30",
+      "time": "11:30 -> 12:30",
+      "type": "study",
+      "title": "German Lesson"
+    },
+    {
+        "day": "2021-06-22",
+        "time": "12:00 -> 13:45",
+        "type": "initimate friends",
+        "title": "Lunch with Princess Kehinde"
+      },
+    {
+      "day": "2021-07-19",
+      "time": "14:00 -> 17:00",
+      "type": "gym",
+      "title": "Aqua Fitness"
+    },
+    {
+      "day": "2021-05-27",
+      "time": "09:00 -> 10:30",
+      "type": "study",
+      "title": "Spanish Lesson"
+    },
+    {
+      "day": "2021-06-22",
+      "time": "12:00 -> 13:45",
+      "type": "initimate friends",
+      "title": "Lunch with AdaUgo"
+    }
+  ]
